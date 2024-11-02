@@ -1,5 +1,5 @@
 import "./App.css";
-import { Button } from "@varugasu/reproduction-lib/components/Button";
+import { Button } from "@varugasu/reproduction-lib/components/button";
 import {
   AcUnitIcon,
   AccessibilityIcon,
